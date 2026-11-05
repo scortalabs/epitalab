@@ -1,0 +1,432 @@
+{
+  "version": 1,
+  "skills": {
+    "acceptable-use-policy-drafting": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/acceptable-use-policy-drafting/SKILL.md",
+      "computedHash": "74ca9a20e6c3c5fff37455bb6924029f8928961d09eacaaecf12451d397da804"
+    },
+    "access-review-campaign-prep": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/access-review-campaign-prep/SKILL.md",
+      "computedHash": "a21cceb975d5e985bb4f1489bd639f303cff8a404243a9857b6ff49a1026b439"
+    },
+    "ai-acceptable-use-rules": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ai-acceptable-use-rules/SKILL.md",
+      "computedHash": "b3e24e92ec0250c40a74b3f7467cdb284b905b0661990fd2523f5077cf351415"
+    },
+    "ai-act-risk-classification": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ai-act-risk-classification/SKILL.md",
+      "computedHash": "5443c695c5336ee9673494d8dc74d230f4dad493888dae79a65d8ae334bbfe22"
+    },
+    "ai-impact-assessment": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ai-impact-assessment/SKILL.md",
+      "computedHash": "78024f5d581d2c56111b14a93570a05eeaed107fe43ca5232e11b5d625082e3a"
+    },
+    "ai-management-system-scope": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ai-management-system-scope/SKILL.md",
+      "computedHash": "d46c04d8a1d01272df6ab48ff7c4d5635f109a3f8c7de1600b1a41d5f51f9ace"
+    },
+    "ai-system-inventory": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ai-system-inventory/SKILL.md",
+      "computedHash": "cc11a49f027cba021cebf4273a85bb9c3895d2957313624726e75499a3c5d658"
+    },
+    "ai-vendor-due-diligence": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ai-vendor-due-diligence/SKILL.md",
+      "computedHash": "6e7443f5a428ccccfe45a82b09d85ccfa060f0ad71b027ad94cc37f511f13aa9"
+    },
+    "auditor-interview-prep": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/auditor-interview-prep/SKILL.md",
+      "computedHash": "ff839d032d0c9f177ded2acafeddee34ad358acfd3cb01fabb4b146bed1891e2"
+    },
+    "auditor-sample-preparation": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/auditor-sample-preparation/SKILL.md",
+      "computedHash": "7267a7a9485b78ef2e888935dcced76f4bc2f958a9cfb43ae7e159bfe45850d6"
+    },
+    "backup-restore-test-evidence": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/backup-restore-test-evidence/SKILL.md",
+      "computedHash": "ff5903fd3c77cd78efd8bb382a5897a9d945ab306f65c7615524460d6848ebe4"
+    },
+    "bcp-tabletop-design": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/bcp-tabletop-design/SKILL.md",
+      "computedHash": "b64d5452d7f4d5d36d17b374493d08d9312ce0616a8322f26daca6c7e2f3efc6"
+    },
+    "business-impact-analysis": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/business-impact-analysis/SKILL.md",
+      "computedHash": "4beea18fdb22ab31383ae6a7bc9597acdd1f7e700a52d5c236d9ea9354bdb096"
+    },
+    "change-management-evidence-sampling": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/change-management-evidence-sampling/SKILL.md",
+      "computedHash": "5890a70547c04ddcc0ca5c7b8be5ee91e9610e79539351175e3e67901d7e2b82"
+    },
+    "control-owner-raci": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/control-owner-raci/SKILL.md",
+      "computedHash": "adee415958f0e494785d49b77d30089810642e168bf32b6bca01a9fec0b5e3f1"
+    },
+    "customer-security-questionnaire-answers": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/customer-security-questionnaire-answers/SKILL.md",
+      "computedHash": "0180e0f877d7c3c843db939eac8431b110c248d7bc158630f5ddcce56be580e6"
+    },
+    "data-subject-request-procedure": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/data-subject-request-procedure/SKILL.md",
+      "computedHash": "ae47f7f02874678da38c0cf348703cff7a480fcafaa3236974fe6e37302ae411"
+    },
+    "document-consistency-check": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/document-consistency-check/SKILL.md",
+      "computedHash": "b1c12b8cb1883de9b3db23fe96941fc89773ea3e3f0622558caef595c987c4c6"
+    },
+    "dpa-security-annex-review": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/dpa-security-annex-review/SKILL.md",
+      "computedHash": "2f0a2783b7555d24a315426e3c44c1180ed466e14411b4e13d2341cdd46b996d"
+    },
+    "dpia-screening": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/dpia-screening/SKILL.md",
+      "computedHash": "8d2c88e2bb92abb64b3bbe888f9ee90f90d0facb59cb6b220b4c0843bfcb1ee0"
+    },
+    "evidence-freshness-check": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/evidence-freshness-check/SKILL.md",
+      "computedHash": "571215f5351a33496d5cbb492fda218c9d2f9447b87dbb802da779202dcedc2b"
+    },
+    "evidence-request-list-builder": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/evidence-request-list-builder/SKILL.md",
+      "computedHash": "e1aaf3812767e68ba736748f7f91368a81c5ecab4cfa913372b77d9a431e9135"
+    },
+    "first-gap-assessment": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/first-gap-assessment/SKILL.md",
+      "computedHash": "b0aa0c2d227e768072d633e03be360af1fc4fa66461976b606091ef498bdee93"
+    },
+    "grc-setup-review": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/grc-setup-review/SKILL.md",
+      "computedHash": "f34453c817792ef49e077b69b534b92b9d8adfb52585dcaa1f3382d9d8b38881"
+    },
+    "ict-risk-framework-check": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ict-risk-framework-check/SKILL.md",
+      "computedHash": "2631cd23b5adb00c6be83c9d9a8c711c041aee4eeaaedc24665e78c2f9516b39"
+    },
+    "ict-third-party-register": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ict-third-party-register/SKILL.md",
+      "computedHash": "97670467a6271a3d711d5b329267733d83ce7c784760f41f84868ffaf826aa7d"
+    },
+    "incident-response-plan-drafting": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/incident-response-plan-drafting/SKILL.md",
+      "computedHash": "00a34e601abbeac01a5f82d535e3f0e1f8e8a48972fe0639d931e10096a33328"
+    },
+    "incident-severity-triage": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/incident-severity-triage/SKILL.md",
+      "computedHash": "bf74c2b80da5fb8ca8e79ed8cbce4c0ff6d0cf64114e835b6978186cde2d9f62"
+    },
+    "internal-audit-checklist-from-scope": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/internal-audit-checklist-from-scope/SKILL.md",
+      "computedHash": "a256d943c7f8423a89abaed5b3538fc05462ce86b4d2cc1ffcaabbd947630707"
+    },
+    "internal-audit-programme-planning": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/internal-audit-programme-planning/SKILL.md",
+      "computedHash": "1832f880978f193eca15ff085ce9c364578273eee66cbcb5e1cbdfd5902ab15b"
+    },
+    "logging-and-monitoring-evidence-pack": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/logging-and-monitoring-evidence-pack/SKILL.md",
+      "computedHash": "b139ff5372b48f30fd8768ac1043765f7422cb934c3e2285b73574c4f45fda1c"
+    },
+    "management-review-pack": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/management-review-pack/SKILL.md",
+      "computedHash": "3efde7c53cd051ca62ef140a854d1814dc3df644a4ec4965a0c1cd12af19d1ef"
+    },
+    "multi-framework-overlap-map": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/multi-framework-overlap-map/SKILL.md",
+      "computedHash": "9dfafe32dad314fd0d0fb30c35371eb48bc879193819a8032a1c3c09e6730f1a"
+    },
+    "nis2-entity-applicability-check": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/nis2-entity-applicability-check/SKILL.md",
+      "computedHash": "5beea075a885c4d7360a10c3b463e5fd2b0cea097f666bb193bd2bb557d2ce7e"
+    },
+    "nonconformity-root-cause-and-corrective-action": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/nonconformity-root-cause-and-corrective-action/SKILL.md",
+      "computedHash": "d2123d291f4744c82607417dff32e3213317d28bac6643f9fc8bba138a28438b"
+    },
+    "phi-flow-mapping": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/phi-flow-mapping/SKILL.md",
+      "computedHash": "0f9ba24bdedad2efcb528bed0d7291b65adbde2f90b6bd1d135c09de3cad01e9"
+    },
+    "policy-gap-review-against-practice": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/policy-gap-review-against-practice/SKILL.md",
+      "computedHash": "4959405680b400d238a54107339fcf3b72d5224848dbd04707a4fe70a9eb2e5a"
+    },
+    "policy-review-cycle-refresh": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/policy-review-cycle-refresh/SKILL.md",
+      "computedHash": "ddda46c6ed1c0b766a25b48d70d55aba02a59c19931daa0b1a9ad4d32506519e"
+    },
+    "post-incident-review": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/post-incident-review/SKILL.md",
+      "computedHash": "6e70eacba569c737df6303767b743c6e2af579b15354a39f1ece0cb32d5fd5ef"
+    },
+    "privacy-and-ai-control-applicability": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/privacy-and-ai-control-applicability/SKILL.md",
+      "computedHash": "047039208c8e4d1a6c68f280a9f52fce0da6c057812de27523c5de9fc75abe1f"
+    },
+    "privacy-notice-gap-check": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/privacy-notice-gap-check/SKILL.md",
+      "computedHash": "661c4ec6026b6f5ced88a09df1af091d47a9699d1f2c56e107cf3fa23806b675"
+    },
+    "regulatory-incident-reporting-clock": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/regulatory-incident-reporting-clock/SKILL.md",
+      "computedHash": "677a6b64fb3ec0134d75c753ba3b7353cc4678c08b911b0c377d6fc1e70a2d9f"
+    },
+    "risk-acceptance-memo": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/risk-acceptance-memo/SKILL.md",
+      "computedHash": "8da9cece9cfff92e65b84145ad22c602ff73a04538182ec17756d48e8e6b63b0"
+    },
+    "risk-method-drafting": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/risk-method-drafting/SKILL.md",
+      "computedHash": "837fea4160959958face2d788bebfcebc2247f3d84e4e7a1f7985be3b87c6945"
+    },
+    "risk-register-first-pass": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/risk-register-first-pass/SKILL.md",
+      "computedHash": "3356607c0b2fd35f49237e2a67a249bc3687c3eb7386d107ed86c8902a663d6b"
+    },
+    "risk-register-hygiene-review": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/risk-register-hygiene-review/SKILL.md",
+      "computedHash": "22980005ed8f1fa6a69900757301ffa6b0cc6679d375a8d80bf57baa4e8bc9a6"
+    },
+    "risk-to-control-traceability-check": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/risk-to-control-traceability-check/SKILL.md",
+      "computedHash": "8275ecd926f7fab17f6c7326e4f56c4e10cbd050cd910748cf50e6802cacf3ce"
+    },
+    "risk-treatment-plan-drafting": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/risk-treatment-plan-drafting/SKILL.md",
+      "computedHash": "eecc2c3c3d0c80574b49c763b2448a35133b992b648d696171488800c42c605c"
+    },
+    "ropa-first-draft": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/ropa-first-draft/SKILL.md",
+      "computedHash": "be0eec2771fb6f6ad64406080cef70e971a60e50c3f62d4affdddadc3cff6d6d"
+    },
+    "scope-statement-drafting": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/scope-statement-drafting/SKILL.md",
+      "computedHash": "c7add2dc4148232764d9ccea2ed48927334bcff4c2c9478c50badb03ad2367f6"
+    },
+    "secure-development-policy-from-pipeline": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/secure-development-policy-from-pipeline/SKILL.md",
+      "computedHash": "ed9c7d0496a319caf00169bb95c2d8439e1c10fb7a9dee3b29de4eb755308b6e"
+    },
+    "security-policy-drafting": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/security-policy-drafting/SKILL.md",
+      "computedHash": "1d6425cff621ebd160b27c3d54afc7f5d10d9fd6227b296909c1f6bbc738452e"
+    },
+    "soa-exclusion-justification-review": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/soa-exclusion-justification-review/SKILL.md",
+      "computedHash": "8e92a0c4e4f33e645206f37c8405c8dcb5a9d835570e2cad0b366415a958d12d"
+    },
+    "soa-first-draft": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/soa-first-draft/SKILL.md",
+      "computedHash": "bc883de234d696495457b8297435098c4f8d50fe363728ff688f7a70e4a75215"
+    },
+    "soa-status-reconciliation": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/soa-status-reconciliation/SKILL.md",
+      "computedHash": "699dfede0ef2e6e2be9c716484c426bc555f6547af51c1c95c7fe00b15318089"
+    },
+    "stage-1-readiness-walk": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/stage-1-readiness-walk/SKILL.md",
+      "computedHash": "026ab05983c404848f3831e0dbd7b16d470afd5a791ae9ca4212ee6d6e9329b1"
+    },
+    "submit-skill": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/.system/submit-skill/SKILL.md",
+      "computedHash": "b92dbe2f9a27290616059581fc2df92c678c78a98e1fda30281458c051952c4f"
+    },
+    "subprocessor-register-update": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/subprocessor-register-update/SKILL.md",
+      "computedHash": "35dcd222b1245474f5bdfb3ffbae7245bc6f79dbd5334c42e0b7a7f603c12e74"
+    },
+    "transfer-impact-assessment": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/transfer-impact-assessment/SKILL.md",
+      "computedHash": "bd5f7700c6cc77e36789b7437fc9036a9eba3b959014c549b35e6cf6c7b627c6"
+    },
+    "vendor-security-questionnaire-triage": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/vendor-security-questionnaire-triage/SKILL.md",
+      "computedHash": "ecd2a87ebd3bd13e0317505d0624f09a5952862529237eb6c03e236bbc68b8e6"
+    },
+    "vendor-tiering": {
+      "source": "better-isms/grcskills",
+      "ref": "v2026.10.20.3",
+      "sourceType": "github",
+      "skillPath": "skills/tristan-roth/vendor-tiering/SKILL.md",
+      "computedHash": "366156bd61a8c1be932483ff8eb12247f4f1e8f2210deadd52d7f5d15a597f7a"
+    }
+  }
+}
